@@ -1,25 +1,69 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-<div style="text-align: center;"> 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" style="width: 500px; height: 250px; border-radius: 10px;">
-<br><br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=35&letterSpacing=0.3px&duration=2000&pause=1000&color=87F740&background=C7FF1C00&width=350&lines=Hi%2C+I'm+Soumik+%F0%9F%91%8B;Let's+Connect+" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7b5ff477-0151-4e3b-9aa2-fa465beac4a3" width="100%" style="border-radius: 12px; max-width: 450px;" alt="Creative Banner" />
+<br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=34&letterSpacing=0.1px&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soumik+✦;Design+Engineer;Building+Taste+Through+Code;Front-end+•+Motion+•+Systems" alt="Typing SVG" />
+  </a>
+  
+  <p><b>Crafting interfaces that feel clear, expressive, and intentional.</b></p>
 </div>
 
-[![My Socials](https://skillicons.dev/icons?i=twitter)](https://twitter.com/emSoumik)
-[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soumik7/)
-[![My Socials](https://skillicons.dev/icons?i=gmail)](mailto:soumikhalder026@gmail.com)
+<h3 align="center"> ✧ Socials </h3>
 
-👨‍💻 Web Developer | 🧑‍🎓 Bachelor's Computer Science | Front-end focused<br><br>🤝 Founding Head of <a href="https://tenacity.social">Tenacity</a>l<br><br>💻 Skills: JavaScript | React | Node.js | GraphQL | Solidity<br><br>📚 Learning: AI | Web3 | Blockchain | Dapp Development<br><br>🚀 Passionate about open source, decentralization and emerging technologies<br><br>🥳 Hobbies: Gaming 🎮 | Sports ⚽️ | Music 🎧<br><br>🙋 Always looking to collaborate and help others learn!
+<p align="center"
+  <a href="https://twitter.com/emSoumik" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/soumik7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://soumik.social" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:soumikhalder026@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  </a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emSoumik&abbreviated=true&style=for-the-badge" alt="emsoumik" /> </p>
+<h3 align="center">✦ Currently vibing at <a href="https://www.aakarlabs.art/" target="_blank">Aakar Labs</a> ✦</h3>
+<p align="center"><i>Exploring the space where design systems, motion, interaction, and UI implementation meet.</i></p>
 
-## Technologies
-<h3 align="left">Languages and Tools:</h3><div> <img src="https://skillicons.dev/icons?i=azure,bootstrap,cpp,css,git,html,java,javascript,linux,mongodb,linux,nodejs,react,tailwind" alt="Skills" /> </div>
+<br />
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emSoumik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=emSoumik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emSoumik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## ✧ The Vision
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=emSoumik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I bridge the gap between static design and functional code. My focus is entirely on **front-end architecture, visual systems, and cultivating product taste**. 
+
+* **Developing Taste:** Learning by designing, rebuilding, shipping, and obsessing over the micro-interactions.
+* **Motion & Interaction:** Making UI feel alive and natural, not just usable.
+* **The Sweet Spot:** Sitting comfortably right between code, aesthetics, and user experience to build products people actually enjoy looking at.
+
+<br />
+
+## ✧ Tools of the Trade
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,mongodb,nodejs,java,cpp,azure,linux,bootstrap&perline=14" alt="Skills" />
+</div>
+
+<br />
+
+<div align="center">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com/?user=emSoumik&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=8b949e&currStreakNum=ffffff" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=emSoumik&abbreviated=true&style=for-the-badge&color=000000" alt="Profile Views" />
+</div>
